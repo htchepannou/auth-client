@@ -28,6 +28,11 @@
     </repositories>
 
     <dependencies>
+        <dependency>
+            <groupId>com.tchepannou.core</groupId>
+            <artifactId>core-rest-client</artifactId>
+            <version>1.0</version>
+        </dependency>
 
         <!-- === Test ===== -->
         <dependency>
